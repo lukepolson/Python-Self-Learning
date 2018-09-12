@@ -1,0 +1,4 @@
+      People    Sales
+Jan   12         1200
+Feb   23         2100
+Mar   45         4500
